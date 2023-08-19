@@ -14,8 +14,5 @@ O usuário pode cadastrar novos filmes no catálogo, fornecendo informações co
 ### 3. Associação de Atores e Diretores aos Filmes
 O programa permite associar atores e diretores a filmes específicos. Um filme pode ter um diretor e vários atores associados.
 
-### 4. Pesquisa de Filmes
-O usuário pode realizar pesquisas de filmes cadastrados pelo nome, considerando caracteres em minúsculas ou maiúsculas.
-
 ### Pesquisa de Filmes
 1. Um método de pesquisa é implementado para encontrar filmes pelo nome, independentemente do uso de letras maiúsculas ou minúsculas.
